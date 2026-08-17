@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio2 - Data Analyst Portfolio
 
 This is my personal portfolio website built to showcase my projects, skills, and professional background. The site is built using HTML, CSS, and JavaScript and is hosted via GitHub Pages.
 
@@ -35,7 +35,7 @@ The site is static, so there is no build step required.
 
 ## 📺 Demo
 
-You can view the live website here: [https://balajigowdahs.github.io/Portfolio/](https://balajigowdahs.github.io/Portfolio/).
+You can view the live website here: [https://balajigowdahs.github.io/Portfolio2/](https://balajigowdahs.github.io/Portfolio2/).
 
 ## 🤝 Contributing
 
